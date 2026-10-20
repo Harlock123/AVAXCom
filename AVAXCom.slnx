@@ -1,0 +1,8 @@
+<Solution>
+  <Folder Name="/src/">
+    <Project Path="src/AVAXCom/AVAXCom.csproj" />
+  </Folder>
+  <Folder Name="/tests/">
+    <Project Path="tests/AVAXCom.Tests/AVAXCom.Tests.csproj" />
+  </Folder>
+</Solution>
